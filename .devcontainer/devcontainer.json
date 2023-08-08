@@ -1,0 +1,26 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}<html>
+<head>
+<title> DNS-HOST- TXT Record for https://woodlummusic.com </title>
+</head>
+<body>
+<h1> DNS-HOST- TXT Record for https://woodlummusic.com </h1>
+<style>
+.dns-host-txt-record {
+  text-align: center;
+  font-size: 1.5em;
+}
+</style>
+
+<div class="dns-host-txt-record">
+  <p>TXT @ "v=spf1 a mx ip4:192.168.1.1 ~all"</p>
+  <p>TXT @ "google-site-verification=12345ABCDE"</p>
+  <p>TXT @ "MS=ms12345ABCDE"</p>
+  <p>TXT @ "keybase-site-verification=12345ABCDE"</p>
+</div>
+
+</body>
+</html>
